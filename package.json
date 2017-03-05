@@ -2,5 +2,5 @@
   "name": "magic",
   "version": "1.0.0",
   "description": "Here is where the magic happend",
-  "main": "index.js",
+  "main": "index.js"
 }
